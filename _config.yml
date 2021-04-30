@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이예은"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/파일이름.파일형식"
   bio              : "외대부고 16기 자연 19번"
   location         : "대한민국, 서울"
   email            : "yesilver0420@gmail.com"
